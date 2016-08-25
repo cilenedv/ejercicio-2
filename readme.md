@@ -1,4 +1,6 @@
 # PSEUDOCODIGO DEL EJERCICIO 2
+Calcula el promedio de tres números enteros
+
 1. Inicio
 2. Ingresar el primer número
 3. Ingresar el segundo número
